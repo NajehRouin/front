@@ -1,0 +1,32 @@
+.name{
+  text-decoration: none;
+}
+button{
+  margin-left: 175px;
+  color: #fff;
+  font-size: 17px;
+  background-color: #319795;
+  padding: 5px;
+  border: none;
+}
+.error  {
+  font-weight: 20px;
+  color: red;
+  margin-top: 0.7rem;
+}
+
+img{ 
+float:left;
+width: 320px;
+height: 410px;}
+#imglog{
+  float:left;
+width: 320px;
+height: 290px;
+
+}
+form{
+  margin-top: 40px;
+  margin-left: 270px;
+  width: 800px;
+}
